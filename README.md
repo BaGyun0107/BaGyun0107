@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-사용자에게는 끊김 없는 경험을, 팀에게는 유지보수하기 좋은 아키텍처를 제공합니다. [cite_start]시스템의 방향을 설계하고 기술의 깊이를 더하는 3년 차 백엔드 중심 풀스택 개발자입니다. [cite: 5, 6, 10, 11, 12]
+사용자에게는 끊김 없는 경험을, 팀에게는 유지보수하기 좋은 아키텍처를 제공합니다. 시스템의 방향을 설계하고 기술의 깊이를 더하는 3년 차 백엔드 중심 풀스택 개발자입니다.
 
 ### 💡 I Focus On...
 - **Architecture & Reliability:** 단순한 API 개발을 넘어 결제 트랜잭션, 간이 Outbox 패턴, Optimistic Lock을 활용한 동시성 제어 등 데이터 정합성 보장에 집중합니다.
@@ -34,17 +34,4 @@
 
 ---
 
-### 📝 Latest Insights
-
-프로젝트를 진행하며 겪은 치열한 고민과 아키텍처 트레이드오프를 기록합니다. [cite_start]더 많은 글은 [포트폴리오(bbagyun.com)](https://bbagyun.com) [cite: 7, 113]에서 확인하실 수 있습니다.
-
-- 🔗 **[[Next.js x NestJS] 도메인이 다른 두 프로젝트를 연동하며 깨부순 아키텍처 오해들](https://bbagyun.com)**
-- 🔗 **[구글과 네이버는 왜 비밀번호를 평문으로 보낼까? (HTTPS의 진실)](https://bbagyun.com)**
-- 🔗 **[NestJS 인증: Guard가 정답일까? (Middleware와 Guard의 트레이드오프 회고)](https://bbagyun.com)**
-- 🔗 **[코드 한 줄 없이 포트폴리오 완성하기: 100% 바이브 코딩(Vibe Coding) 도입기](https://bbagyun.com)**
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaGyun0107&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub Stats" />
-</div>
+프로젝트를 진행하며 겪은 치열한 고민과 아키텍처 트레이드오프를 기록합니다. 더 많은 글은 [포트폴리오(bbagyun.com)](https://bbagyun.com)에서 확인하실 수 있습니다.
